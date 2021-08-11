@@ -1,0 +1,51 @@
+★ DNSPod Public DNS+	119.29.29.29
+★ AliDNS public DNS resolution service	223.5.5.5	223.6.6.6
+★ 114 DNS Regular public DNS (clean and no hijacking)	114.114.114.114	114.114.115.115
+★ 114 DNS Block phishing virus Trojan sites (protect online security)	114.114.114.119	114.114.115.119
+★ 114 DNS Block pornographic sites (protect children)	114.114.114.110	114.114.115.110
+★ Baidu BaiduDNS	180.76.76.76
+★ Baidu BaiduDNS	2400:da00::6666
+360 DNS School (DNSpai Public DNS) (Telecom/Mobile/Railcom)	101.226.4.6	218.30.118.6
+360 DNS School (DNSpai Public DNS) (Unicom)	123.125.81.6	140.207.198.6
+CNNIC sDNS	1.2.4.8	210.2.4.8
+OneDNS	117.50.11.11	117.50.22.22
+★ Google Public DNS	8.8.8.8	8.8.4.4
+★ Google Public DNS	2001:4860:4860::8888	2001:4860:4860::8844
+★ CloudFlare DNS	1.1.1.1	1.0.0.1
+★ CloudFlare DNS	2606:4700:4700::1111	2606:4700:4700::1001
+IBM Quad9	9.9.9.9	149.112.112.112
+IBM Quad9	2620:fe::fe	2620:fe::9
+Cisco OpenDNS	208.67.222.222	208.67.220.220
+Cisco OpenDNS	2620:0:ccc::2	2620:0:ccd::2
+Hurricane Electric Public DNS （HE）	74.82.42.42	66.220.18.42
+Hurricane Electric Public DNS （HE）	2001:470:20::2	2001:470:0:9d::2
+Comodo SecureDNS	8.26.56.26	8.20.247.20
+Verisign Public DNS	64.6.64.6	64.6.65.6
+Verisign Public DNS	2620:74:1b::1:1	2620:74:1c::2:2
+Neustar Recursive DNS	156.154.70.1	156.154.71.1
+Neustar Recursive DNS	2610:a1:1018::1	2610:a1:1019::1
+ORACLE Dyn Public DNS	216.146.36.36	216.146.35.35
+Level3 Public DNS	209.244.0.3	209.244.0.4
+Alternate DNS	23.253.163.53	198.101.242.72
+Hong Kong Broadband/HKBN	203.80.96.10
+Hutchison Global Communications DNS	202.45.84.58	202.45.84.59
+Pacific SuperNet DNS	202.14.67.4	202.14.67.14
+Chunghwa Telecom/HiNet	168.95.1.1	168.95.192.1
+Chunghwa Telecom/HiNet	2001:b000:168::1	2001:b000:168::2
+Digital United Telecom/Seednet	139.175.252.16	139.175.55.244
+Taiwan Internet Information/TWNIC Quad101 Public DNS	101.101.101.101	101.102.103.104
+Taiwan Internet Information/TWNIC Quad101 Public DNS	2001:de4::101	2001:de4::102
+KT olleh	168.126.63.1	168.126.63.2
+SK Broadband	210.220.163.82	219.250.36.130
+LG U+	164.124.101.2	203.248.252.2
+LG U+	164.124.107.9	203.248.242.2
+Russia Yandex Public DNS	77.88.8.8	77.88.8.1
+Russia Yandex Public DNS	2a02:6b8::feed:0ff	2a02:6b8:0:1::feed:0ff
+Russia SafeDNS	195.46.39.39	195.46.39.40
+Germany DNS.WATCH Public DNS	84.200.69.80	84.200.70.40
+Germany DNS.WATCH Public DNS	2001:1608:10:25::1c04:b12f	2001:1608:10:25::9249:d69b
+Switzerland xiala.net Public DNS	77.109.148.136	77.109.148.137
+Switzerland xiala.net Public DNS	2001:1620:2078:136::	2001:1620:2078:137::
+Denmark UncensoredDNS	91.239.100.100	89.233.43.71
+Denmark UncensoredDNS	2001:67c:28a4::	2a01:3a0:53:53::
+Netherlands Freenom World Public DNS	80.80.80.80	80.80.81.81

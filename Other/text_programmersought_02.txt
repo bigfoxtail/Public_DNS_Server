@@ -1,0 +1,392 @@
+https://www.programmersought.com/article/80703833652/
+domestic
+The performance of the same DNS server in different countries and different regions is not exactly the same. The resolution speed and response time are different, so I suggest you compare them.
+
+★ DNSPod Public DNS+
+
+Public DNS + is a public DNS service belonging to Tencent Cloud. It has more than 80 domestic lines and 4 overseas lines, has BGP Anycast technology, and is the first public DNS resolution service in China that supports Google's ECS (edns-client-subnet) protocol. It only uses one IP, but there are three places for cluster disaster recovery and second-level automatic failover. The speed measurement data in most places in the country are very good and worth recommending.
+
+IPv4 address
+
+First choice: 119.29.29.29
+
+★ AliDNS public DNS resolution service
+
+Alibaba Public DNS is a free DNS recursive resolution system launched by Alibaba Cloud. It claims that the cluster of hundreds of servers around the world has sufficient bandwidth resources. The goal is to become an integral part of the domestic Internet infrastructure, supporting BGP Anycast and ECS technology.
+
+IPv4 address
+
+First choice: 223.5.5.5
+
+Spare: 223.6.6.6
+
+★ 114 DNS
+
+114 DNS The number of users in China is quite huge, and its DNS resolution success rate is high. Compared with the DNS of ISP, it can access more domestic and foreign websites; it is said to be pure, no hijacking, and no longer need to endure the pain of being forced into advertisements or vulgar websites; 114DNS is done earlier, has a certain accumulation of technology, and has good stability. Although the speed is a bit worse than the previous two, it is also satisfactory. It also has a feature that different DNS groups can be selected according to different uses. It is recommended that the author is using it.
+
+Regular public DNS (clean and no hijacking)
+
+First choice: 114.114.114.114
+
+Alternative: 114.114.115.115
+
+Block phishing virus Trojan sites (protect online security)
+
+First choice: 114.114.114.119
+
+Spare: 114.114.115.119
+
+Block pornographic sites (protect children)
+
+First choice: 114.114.114.110
+
+Spare: 114.114.115.110
+
+★ Baidu BaiduDNS
+
+Baidu DNS public resolution service, supports ipv4 and ipv6. As China's largest search engine, Baidu has first-class infrastructure and strong technical strength, and the domestic speed is quite fast! The service is fast and stable without hijacking, intelligently intercepts malicious websites, and supports BGP Anycast and ECS technologies.
+
+IPv4 address: 180.76.76.76
+
+IPv6 address: 2400: da00 :: 6666
+
+360 DNS School (DNSpai Public DNS)
+
+DNS Pie is a free public DNS resolution service produced by 360. It can make Internet surfing more stable, fast and safe; intercept phishing websites for families, filter illegal websites, establish a green and healthy online environment; automatically correct errors for spelling domain names, etc.
+
+First choice (Telecom / Mobile / Railcom): 101.226.4.6
+
+Alternative (Telecom / Mobile / Railcom): 218.30.118.6
+
+First choice (Unicom): 123.125.81.6
+
+Alternative (Unicom): 140.207.198.6
+
+CNNIC sDNS
+
+sDNS (SecureDNS, sDNS for short) is a free public cloud resolution service launched by the China Internet Network Information Center CNNIC in cooperation with domestic and foreign telecom operators. It aims to provide users with high-speed, safe, and intelligent Internet access resolution services. sDNS recursive cloud resolution service adopts IP Anycast + BGP technology for distributed heterogeneous deployment across regions and operators, which is faster and more stable than DNS provided by operators.
+
+IPv4 address
+
+First choice: 1.2.4.8
+
+Spare: 210.2.4.8
+
+OneDNS
+
+OneDNS is a secure, fast and free niche DNS service. It can block malicious websites and get rid of DNS pollution and hijacking of unscrupulous ISPs. At the same time, high-speed lines across the north and south accelerate your network connection.
+
+IPv4 address
+
+First choice: 117.50.11.11
+
+Spare: 117.50.22.22
+
+foreign
+As the name suggests, foreign DNS is certainly suitable for overseas users. For domestic users, although these DNS servers are not fast in China, they have a lot of functions. For example, when you buy a foreign VPS to build a related application, you can configure it to use foreign countries. DNS and so on.
+
+★ Google Public DNS (8.8.8.8)
+
+The free global public DNS service provided by Google is mainly to improve the speed of web browsing and the browsing experience of web users. This is basically nothing to introduce, maybe it is currently the most widely used public DNS in the world, and it is old-fashioned, stable, and strong in technology.
+
+IPv4 address
+
+First choice: 8.8.8.8
+
+Spare: 8.8.4.4
+
+IPv6 address
+
+First choice: 2001: 4860: 4860 :: 8888
+
+Spare: 2001: 4860: 4860 :: 8844
+
+★ CloudFlare DNS (1.1.1.1)
+
+CloudFlare DNS is known as the world's fastest DNS service (of course, Tianchao is not counted in the global scope> _ <), CloudFlare is one of the world's largest CDN / DDOS protection service providers (according to accelerated cooperation with Baidu Cloud in China), which is The global infrastructure resources are extremely rich, and the capital and technical strength are quite strong. The measured speed in foreign countries is quite strong. At present, I have changed all the overseas VPS to this DNS, and the resolution speed is very fast, which is worth recommending!
+
+IPv4 address
+
+First choice: 1.1.1.1
+
+Spare: 1.0.0.1
+
+IPv6 address:
+
+First choice: 2606: 4700: 4700 :: 1111
+
+Spare: 2606: 4700: 4700 :: 1001
+
+IBM Quad9 (9.9.9.9)
+
+The free Quad9 public DNS service (9.9.9.9) launched by IBM, Global Cyber ​​Alliance and Packet Clearing House, which focuses on security, will intelligently block malicious URLs, botnets, phishing attacks and other malicious host domain names, and pay more attention to privacy protection. Friends who need security can use this set of DNS.
+
+IPv4 address
+
+First choice: 9.9.9.9
+
+Spare: 149.112.112.112
+
+IPv6 address
+
+First choice: 2620: fe :: fe
+
+Spare: 2620: fe :: 9
+
+Cisco OpenDNS
+
+OpenDNS is an old free public DNS provider, which was later acquired wholly by Cisco.
+
+IPv4 address
+
+First choice: 208.67.222.222
+
+Spare: 208.67.220.220
+
+IPv6 address
+
+First choice: 2620: 0: ccc :: 2
+
+Spare: 2620: 0: ccd :: 2
+
+Hurricane Electric Public DNS （HE）
+
+IPv4 address
+
+First choice: 74.82.42.42
+
+Spare: 66.220.18.42
+
+IPv6 address
+
+First choice: 2001: 470: 20 :: 2
+
+Spare: 2001: 470: 0: 9d :: 2
+
+Comodo SecureDNS
+
+IPv4 address
+
+First choice: 8.26.56.26
+
+Spare: 8.20.247.20
+
+Verisign Public DNS
+
+IPv4 address
+
+First choice: 64.6.64.6
+
+Spare: 64.6.65.6
+
+IPv6 address
+
+First choice: 2620: 74: 1b :: 1: 1
+
+Spare: 2620: 74: 1c :: 2: 2
+
+Neustar Recursive DNS
+
+IPv4 address
+
+First choice: 156.154.70.1
+
+Spare: 156.154.71.1
+
+IPv6 address
+
+First choice: 2610: a1: 1018 :: 1
+
+Spare: 2610: a1: 1019 :: 1
+
+ORACLE Dyn Public DNS
+
+IPv4 address
+
+First choice: 216.146.36.36
+
+Spare: 216.146.35.35
+
+Level3 Public DNS
+
+IPv4 address
+
+First choice: 209.244.0.3
+
+Spare: 209.244.0.4
+
+Alternate DNS
+
+IPv4 address
+
+First choice: 23.253.163.53
+
+Spare: 198.101.242.72
+
+Hong Kong
+
+Hong Kong Broadband / HKBN
+
+IPv4 address
+
+First choice: 203.80.96.10
+
+Hutchison Global Communications DNS
+
+IPv4 address
+
+First choice: 202.45.84.58
+
+Spare: 202.45.84.59
+
+Pacific SuperNet DNS
+
+IPv4 address
+
+First choice: 202.14.67.4
+
+Spare: 202.14.67.14
+
+Taiwan
+
+Chunghwa Telecom / HiNet
+
+IPv4 address
+
+First choice: 168.95.1.1
+
+Spare: 168.95.192.1
+
+IPv6 address
+
+First choice: 2001: b000: 168 :: 1
+
+Spare: 2001: b000: 168 :: 2
+
+Digital United Telecom / Seednet
+
+IPv4 address
+
+First choice: 139.175.252.16
+
+Spare: 139.175.55.244
+
+Taiwan Internet Information / TWNIC Quad101 Public DNS
+
+IPv4 address
+
+First choice: 101.101.101.101
+
+Spare: 101.102.103.104
+
+IPv6 address
+
+First choice: 2001: de4 :: 101
+
+Spare: 2001: de4 :: 102
+
+Korea
+
+KT olleh
+
+IPv4 address:
+
+First choice: 168.126.63.1
+
+Spare: 168.126.63.2
+
+SK Broadband
+
+First choice: 210.220.163.82
+
+Spare: 219.250.36.130
+
+LG U+
+
+First choice: 164.124.101.2
+
+Spare: 203.248.252.2
+
+First choice: 164.124.107.9
+
+Spare: 203.248.242.2
+
+Other countries
+
+Russia Yandex Public DNS
+
+IPv4 address
+
+First choice: 77.88.8.8
+
+Spare: 77.88.8.1
+
+IPv6 address
+
+First choice: 2a02: 6b8 :: feed: 0ff
+
+Spare: 2a02: 6b8: 0: 1 :: feed: 0ff
+
+Russia SafeDNS
+
+IPv4 address
+
+First choice: 195.46.39.39
+
+Spare: 195.46.39.40
+
+Germany DNS.WATCH Public DNS
+
+IPv4 address
+
+First choice: 84.200.69.80
+
+Spare: 84.200.70.40
+
+IPv6 address
+
+First choice: 2001: 1608: 10: 25 :: 1c04: b12f
+
+Spare: 2001: 1608: 10: 25 :: 9249: d69b
+
+Switzerland xiala.net Public DNS
+
+IPv4 address
+
+First choice: 77.109.148.136
+
+Spare: 77.109.148.137
+
+IPv6 address
+
+First choice: 2001: 1620: 2078: 136 ::
+
+Spare: 2001: 1620: 2078: 137 ::
+
+Denmark UncensoredDNS
+
+IPv4 address
+
+First choice: 91.239.100.100
+
+Spare: 89.233.43.71
+
+IPv6 address
+
+First choice: 2001: 67c: 28a4 ::
+
+Spare: 2a01: 3a0: 53: 53 ::
+
+Netherlands Freenom World Public DNS
+
+IPv4 address
+
+First choice: 80.80.80.80
+
+Spare: 80.80.81.81
+
+Write in the back
+
+You can set up public DNS on the router, which will apply to all your devices. It can also be set independently on a computer or mobile phone as needed. The configuration methods of Win, macOS, Linux and other systems can be easily searched.
+
+And not just computers and mobile phones, such as XBox, PS4 and other game consoles or any network equipment, you can basically set DNS. If you are playing games or downloading games too slowly or too stupidly, you might as well try changing a DNS to see the effect.

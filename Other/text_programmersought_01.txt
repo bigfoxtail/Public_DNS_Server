@@ -1,0 +1,166 @@
+https://www.programmersought.com/article/93483435641/
+table of Contents
+ DNS IP 
+
+Commonly used in ChinaPublic DNS
+114 DNS： （114.114.114.114；114.114.115.115）
+
+114DNSSecurity Edition （114.114.114.119；114.114.115.119）
+
+114DNS Home Edition（114.114.114.110；114.114.115.110）
+
+AliDNS： （223.5.5.5； 223.6.6.6）
+
+Baidu BaiduDNS(Add IPv6 addressnew）: (180.76.76.76; ipv6 address: 2400: da00 :: 6666)
+
+DNSPod DNS+(TencentPublic DNS, The first two are recommended) (119.29.29.29; 119.28.28.28; 182.254.118.118; 182.254.116.116)
+
+PandaDNS：（115.159.157.26；115.159.158.38）
+
+CNNIC SDNS（1.2.4.8；210.2.4.8）
+
+oneDNS update(Current official DNS: 117.50.11.11; 117.50.22.22) (former official ones can also be used: 112.124.47.27; 114.215.126.16)
+
+DNS Pie Telecom / Mobile / Railway    （101.226.4.6；218.30.118.6）
+
+DNS Pie Unicom    （123.125.81.6；140.207.198.6）
+
+Mushroom MoguDNS   NS1 ：（115.159.96.69 NS2 ：122.114.245.45）
+
+Worldlink DNS (a total of three groups)
+
+DNS ONE Northern recommendation: (123.207.137.88 Southern recommendation: 115.159.220.214)
+
+DNS TWO Northern recommendation: (122.114.245.45 Southern recommendation: 115.159.96.69)
+
+DNS THREE Northern recommendation: (115.159.157.26 Southern recommendation: 115.159.158.38)
+
+China University of Science and Technology anti-pollution DNS(202.141.162.123 (China Telecom); 202.141.178.13 (telecom line); 202.38.93.153 (education network); 202.141.176.93 (China Mobile))
+
+Clean, free and pure DNS without hijacking: (South: 115.159.146.99 North: 123.206.21.48) Which speed is faster, ping yourself
+
+Xsico DNS pure and fast public DNS： (Public Public Dns: 115.159.157.26 Scholar Dns: 115.159.158.38) It seems that ping is prohibited and the service will be stopped at any time
+
+BAI DNSSupport EDNS intelligent resolution, no pollution dns, fast and safe : （223.113.97.99）
+
+PdoMo-DNS (Primary DNS: 101.132.183.99; secondary DNS: 193.112.15.186) Note: ads can be filtered, pure and no hijacking
+
+cloudxns （124.251.124.251） According to user feedback, it is no longer available!
+
+FUN DNS（119.23.248.241）
+
+Camel cloud security camelyundns public dns:（63.223.94.66）
+
+CuteDNS：
+
+High-speed DNS (original, high-speed resolution): North China 123.206.61.167; South China 119.29.105.234
+
+To advertise DNS (can block advertisements and illegal information): North China 101.236.28.23; South China 120.77.212.84
+
+China's first IPv6Public DNS: Preferred DNS: 240c :: 6666, Standby DNS: 240c :: 6644.
+
+P station DNS: DNS 1: 123.207.137.88, DNS 2: 115.159.220.214; alternate DNS 1: 115.159.146.99, DNS 2: 123.206.21.48
+
+Tsinghua University TUNA DNS666：101.6.6.6；2001:da8::666
+
+HI! XNS (purity without hijacking):40.73.101.101
+
+ 
+
+DNS in Hong Kong, Macao and Taiwan
+Taiwan Network Information Center TWNIC Quad 101 DNS: (Primary DNS: 101.101.101.101; spare: 101.102.103.104) IPv6 part: primary DNS: 2001: de4 :: 101; spare: 2001: de4 :: 102
+
+Hong Kong Broadband DNS：（203.80.96.10；203.80.96.9）
+
+China (Hong Kong) Telecom Global Limited NS1(202.55.11.100) Test failed to ping
+
+China (Hong Kong) Telecom Global Limited NS4(202.55.21.85) ping is around 90
+
+Siemens Spinach Server (Hong Kong)(112.121.178.187) ping is around 50
+
+Chunghwa Telecom Taiwan HiNet DNS：（168.95.192.1；  168.95.1.1）
+
+Hutchison Whampoa Limited（202.45.84.58）
+
+ 
+
+Foreign public DNS
+Cloudflare & APNIC(IPv4: primary DNS: 1.1.1.1, standby: 1.0.0.1; IPv6: primary DNS: 2001: 2001 ::, standby 2001: 2001: 2001: :) PS: the most powerful and concise
+
+AdGuard DNS (beta):
+
+Default (can block ads, tracking and phishing URLs)
+
+176.103.130.130；176.103.130.131
+
+The IPv6 address is: 2a00: 5a60 :: ad1: 0ff; 2a00: 5a60 :: ad2: 0ff
+
+Family protection (default + block adult sites + safe search)
+
+176.103.130.132；176.103.130.134
+
+IPv6 address usage: 2a00: 5a60 :: bad1: 0ff; 2a00: 5a60 :: bad2: 0ff
+
+Google DNS     （8.8.8.8；    8.8.4.4）
+
+Google Google Public DNS IPv6 DNS    （2001:4860:4860::8888； 2001:4860:4860::8844）
+
+level 3：（4.2.2.1；4.2.2.2   ）
+
+IBM Quad9 DNS（9.9.9.9）
+
+Comodo Secure （8.26.56.26；8.20.247.20）
+
+V2EX DNS （199.91.73.222；178.79.131.110）
+
+OpenDNS  （208.67.222.222；208.67.220.220）
+
+OpenDNS Family：（208.67.222.123、208.67.220.123）
+
+UltraDNS   （156.154.70.1；156.154.71.1）
+
+Norton ConnectSafe   （199.85.126.10；199.85.127.10）
+
+Verisign Public DNS   （64.6.64.6；64.6.65.6）
+
+Dyn DNS   （216.146.35.35；216.146.36.36）
+
+Freenom World DNS  （80.80.80.80；80.80.81.81）
+
+Yandex Basic  （ 77.88.8.8；77.88.8.1）
+
+Yandex Basic  （77.88.8.8 ；77.88.8.2）
+
+Yandex Basic  （ 77.88.8.7；77.88.8.3）
+
+Cambodia CN2 DNS(103.197.104.178; 103.197.106.75; 203.189.136.148) ping is around 110-120
+
+Hurricane Electric HEDNS （IPV4：74.82.42.42；IPV6：2001：470：20：2；IPV4：66.220.18.42）
+
+UCOM Tokyo, Japan（203.112.2.4）
+
+DNS.WATCH （IPV4：84.200.69.80；84.200.70.40；IPV6：2001:1608:10:25::1c04:b12f；2001:1608:10:25::9249:d69b）
+
+SafeDNS （195.46.39.39；195.46.39.40）
+
+puntCAT DNS （IPV4：109.69.8.51；IPV6：2a00:1508:0:4::9）
+
+Korea Telecom (not Korea Changan University) DNS （ 168.126.63.1；168.126.63.2 ）
+
+ 
+
+Old D recommended:
+Domestic public DNS
+name	Preferred address	Alternative address
+114 DNS	114.114.114.114	114.114.115.115
+Ali DNS	223.5.5.5	223.6.6.6
+Baidu DNS	180.76.76.76	
+Tencent DNS	119.29.29.29	182.254.116.116
+The rest of the DNS is not recommended here
+Overseas public DNS
+name	Preferred address	Alternative address
+Cloudflare & APNIC	1.1.1.1	1.0.0.1
+Google DNS	8.8.8.8	8.8.4.4
+OpenDNS	208.67.222.222	208.67.220.220
+Microsoft DNS	4.2.2.1	4.2.2.2
+The rest of the DNS is not recommended here

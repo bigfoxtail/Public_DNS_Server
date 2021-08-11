@@ -1,0 +1,92 @@
+114 DNS	114.114.114.114	114.114.115.115
+114 DNS Security Edition	114.114.114.119	114.114.115.119
+114 DNS Home Edition	114.114.114.110	114.114.115.110
+AliDNS	223.5.5.5	223.6.6.6
+Baidu BaiduDNS	180.76.76.76
+Baidu BaiduDNS	2400:da00::6666
+TencentPublic DNS,	119.29.29.29	119.28.28.28
+DNSPod DNS	182.254.118.118	182.254.116.116
+PandaDNS	115.159.157.26	115.159.158.38
+CNNIC SDNS	1.2.4.8	210.2.4.8
+oneDNS update Current official DNS	117.50.11.11	117.50.22.22
+oneDNS former official ones can also be used	112.124.47.27	114.215.126.16
+DNS Pie Telecom/Mobile/Railway	101.226.4.6	218.30.118.6
+DNS Pie Unicom	123.125.81.6	140.207.198.6
+Mushroom MoguDNS	115.159.96.69	122.114.245.45
+DNS ONE Northern recommendation	123.207.137.88
+DNS ONE Southern recommendation	115.159.220.214
+DNS TWO Northern recommendation	122.114.245.45
+DNS TWO Southern recommendation	115.159.96.69
+DNS THREE Northern recommendation	115.159.157.26
+DNS THREE Southern recommendation	115.159.158.38
+China University of Science and Technology anti-pollution(China Telecom)	202.141.162.123
+China University of Science and Technology anti-pollution(telecom line)	202.141.178.13
+China University of Science and Technology anti-pollution(education network)	202.38.93.153
+China University of Science and Technology anti-pollution(China Mobile)	202.141.176.93
+Clean, free and pure DNS without hijacking South	115.159.146.99
+Clean, free and pure DNS without hijacking North	123.206.21.48
+Xsico DNS pure and fast public DNS	115.159.157.26
+Xsico DNS pure and fast Scholar Dns	115.159.158.38
+BAI DNS	223.113.97.99
+PdoMo-DNS ads can be filtered	101.132.183.99	193.112.15.186
+cloudxns	124.251.124.251
+FUN DNS	119.23.248.241
+Camel cloud security camelyundns public dns	63.223.94.66
+CuteDNS High-speed DNS (original, high-speed resolution):North China	123.206.61.167
+CuteDNS High-speed DNS (original, high-speed resolution):South China	119.29.105.234
+CuteDNS To advertise DNS (can block advertisements and illegal information):North China	101.236.28.23
+CuteDNS To advertise DNS (can block advertisements and illegal information):South China	120.77.212.84
+China's first IPv6Public DNS:Preferred DNS	240c::6666	240c::6644.
+P station DNS:	123.207.137.88	115.159.220.214
+P station alternate DNS	115.159.146.99	123.206.21.48
+Tsinghua University TUNA DNS666	101.6.6.6	2001:da8::666
+HI! XNS (purity without hijacking)	40.73.101.101
+Taiwan Network Information Center TWNIC Quad 101 DNS	101.101.101.101	101.102.103.104
+Taiwan Network Information Center TWNIC Quad 101 DNS	2001:de4::101	2001:de4::102
+Hong Kong Broadband DNS	203.80.96.10	203.80.96.9
+China (Hong Kong) Telecom Global Limited	202.55.11.100
+China (Hong Kong) Telecom Global Limited	202.55.21.85
+Siemens Spinach Server (Hong Kong)	112.121.178.187
+Chunghwa Telecom Taiwan HiNet DNS	168.95.192.1	168.95.1.1
+Hutchison Whampoa Limited	202.45.84.58
+Cloudflare & APNIC	1.1.1.1	1.0.0.1
+Cloudflare & APNIC	2001:2001::	2001:2001:2001::
+AdGuard DNS Default (can block ads, tracking and phishing URLs)	176.103.130.130	176.103.130.131
+AdGuard DNS Default (can block ads, tracking and phishing URLs)	2a00:5a60::ad1:0ff	2a00:5a60::ad2:0ff
+AdGuard DNS Family protection (default + block adult sites + safe search)	176.103.130.132	176.103.130.134
+AdGuard DNS Family protection (default + block adult sites + safe search)	2a00:5a60::bad1:0ff	2a00:5a60::bad2:0ff
+Google DNS	8.8.8.8	8.8.4.4
+Google Google Public DNS IPv6 DNS	2001:4860:4860::8888	2001:4860:4860::8844
+level 3：	4.2.2.1	4.2.2.2
+IBM Quad9 DNS	9.9.9.9
+Comodo Secure	8.26.56.26	8.20.247.20
+V2EX DNS	199.91.73.222	178.79.131.110
+OpenDNS	208.67.222.222	208.67.220.220
+OpenDNS Family：	208.67.222.123、208.67.220.123
+UltraDNS	156.154.70.1	156.154.71.1
+Norton ConnectSafe	199.85.126.10	199.85.127.10
+Verisign Public DNS	64.6.64.6	64.6.65.6
+Dyn DNS	216.146.35.35	216.146.36.36
+Freenom World DNS	80.80.80.80	80.80.81.81
+Yandex Basic	77.88.8.8	77.88.8.1
+Yandex Basic	77.88.8.8	77.88.8.2
+Yandex Basic	77.88.8.7	77.88.8.3
+Cambodia CN2 DNS	103.197.104.178	103.197.106.75
+Cambodia CN2 DNS	203.189.136.148
+Hurricane Electric HEDNS	74.82.42.42	66.220.18.42
+Hurricane Electric HEDNS	2001:470:20:2
+UCOM Tokyo, Japan	203.112.2.4
+DNS.WATCH	84.200.69.80	84.200.70.40
+DNS.WATCH	2001:1608:10:25::1c04:b12f	2001:1608:10:25::9249:d69b
+SafeDNS	195.46.39.39	195.46.39.40
+puntCAT DNS	109.69.8.51
+puntCAT DNS	2a00:1508:0:4::9
+Korea Telecom (not Korea Changan University) DNS	168.126.63.1	168.126.63.2
+114 DNS	114.114.114.114	114.114.115.115
+Ali DNS	223.5.5.5	223.6.6.6
+Baidu DNS	180.76.76.76
+Tencent DNS	119.29.29.29	182.254.116.116
+Cloudflare & APNIC	1.1.1.1	1.0.0.1
+Google DNS	8.8.8.8	8.8.4.4
+OpenDNS	208.67.222.222	208.67.220.220
+Microsoft DNS	4.2.2.1	4.2.2.2

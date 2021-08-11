@@ -1,0 +1,13 @@
+#python list1.csv https://dnschecker.org/public-dns
+#python list2.csv https://kb.adguard.com/en/general/dns-providers
+#python list3.csv https://0xfab1.net/tech/standards/publicDNS/
+#python list4.csv https://public-dns.info/
+#手动 01.txt https://www.programmersought.com/article/93483435641/
+#手动 02.txt https://www.programmersought.com/article/80703833652/
+#手动 03.txt https://foxcow.com/list-of-free-public-dns-anycast-servers-safe-fast-secure/
+#手动 04.txt https://www.freevocabulary.com/edu/free-best-public-dns-servers/
+https://dnscrypt.info/public-servers
+https://gist.github.com/mutin-sa/5dcbd35ee436eb629db7872581093bc5
+https://github.com/oneoffdallas/dohservers/blob/master/iplist.txt
+https://via.moe/dns/
+https://www.publicdns.xyz/

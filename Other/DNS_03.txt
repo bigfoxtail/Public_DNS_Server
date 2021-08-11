@@ -1,0 +1,60 @@
+note :
+ipv4 – internet protocol version 4.
+ipv6 – internet protocol version 6
+block ads- prevent advertisement from loading
+DoT (DNS over TLS) supported in Android OS 9+ versions
+DoH (DNS over Https) supported in “ Mozilla Firefox ” based browsers
+Public name-servers are 100% up-time guaranteed, BGP anycast routing servers for fast lookup for all countries
+we provided – DNS ipaddress’s , DoH (DNS over Https), DoT (DNS over TLS)
+IP work on port 53 , DoH (DNS over Https) work on port 443 , DoT (DNS over TLS) work on port 853
+family filter – block adult / porn websites / nsfw content / 18+ advertisement’s & also protect from bots, infected / fraudulent sites
+
+google	2001:4860:4860::6464 (dns64.dns.google)	2001:4860:4860::64 ( dns64.dns.google )
+cloudflare	2606:4700:4700::64 (dns64.cloudflare-dns.com)	2606:4700:4700::6400 ( dns64.cloudflare-dns.com )
+Google	8.8.8.8 (google-public-dns-a.google.com)	8.8.4.4 (google-public-dns-b.google.com)	DoH: https://dns.google/dns-query ; DoT: dns.google
+Google	2001:4860:4860::8888 ( google-public-dns-a.google.com )	2001:4860:4860::8844 ( google-public-dns-b.google.com )	DoH: https://dns.google/dns-query ; DoT: dns.google
+Cloudflare	1.1.1.1 (one.one.one.one)	1.0.0.1 (1dot1dot1dot1.cloudflare-dns.com)	DoH: https://cloudflare-dns.com/dns-query ; DoT: cloudflare-dns.com
+Cloudflare	2606:4700:4700::1111 ( one.one.one.one )	2606:4700:4700::1001 ( 1dot1dot1dot1.cloudflare-dns.com )	DoH: https://cloudflare-dns.com/dns-query ; DoT: cloudflare-dns.com
+Cloudflare Family filter :	1.1.1.3	1.0.0.3	DoH: https://family.cloudflare-dns.com/dns-query ; DoT: family.cloudflare-dns.com
+Cloudflare Family filter :	2606:4700:4700::1003	2606:4700:4700::1113	DoH: https://family.cloudflare-dns.com/dns-query ; DoT: family.cloudflare-dns.com
+opendns.	208.67.222.222 (dns.opendns.com)	208.67.220.220	DoH: https://doh.opendns.com/dns-query
+opendns.	2620:119:53::53 ( dns.opendns.com )	2620:119:35::35	DoH: https://doh.opendns.com/dns-query
+opendns.FamilyShield	208.67.222.123 ( familyshield.opendns.com )	208.67.220.123	DoH:  https://doh.familyshield.opendns.com/dns-query
+opendns.FamilyShield	2620:119:53::123  (familyshield.opendns.com)	2620:119:35::123	DoH:  https://doh.familyshield.opendns.com/dns-query
+quad9	9.9.9.9 (dns.quad9.net)	149.112.112.112  (rpz-public-resolver1.rrdns.pch.net)	DoH: https://dns.quad9.net/dns-query ; DoT: dns.quad9.net
+quad9	2620:fe::fe ( dns.quad9.net )	2620:fe::9 ( rpz-public-resolver1.rrdns.pch.net )	DoH: https://dns.quad9.net/dns-query ; DoT: dns.quad9.net
+AD block DNS Servers adguard	94.140.14.14	94.140.15.15	DoH: https://dns.adguard.com/dns-query ; DoT: dns.adguard.com
+AD block DNS Servers adguard	2a10:50c0::ad1:ff	2a10:50c0::ad2:ff	DoH: https://dns.adguard.com/dns-query ; DoT: dns.adguard.com
+AD block DNS Servers FamilyShield	94.140.14.15	94.140.15.16	DoH: https://dns-family.adguard.com/dns-query ; DoT: dns-family.adguard.com
+AD block DNS Servers FamilyShield	2a10:50c0::bad1:ff	2a10:50c0::bad2:ff	DoH: https://dns-family.adguard.com/dns-query ; DoT: dns-family.adguard.com
+alternate dns	23.253.163.53	198.101.242.72	DoH: https://dns.alternate-dns.com/dns-query ; DoT: dns.alternate-dns.com
+alternate dns	2001:4801:7825:103:be76:4eff:fe10:2e49	2001:4800:780e:510:a8cf:392e:ff04:8982	DoH: https://dns.alternate-dns.com/dns-query ; DoT: dns.alternate-dns.com
+ahadns	5.2.75.75 (Netherlands)	45.79.120.233 (india)	(for Netherland)DoH: https://doh.nl.ahadns.net/dns-query ; DoT: doh.nl.ahadns.net  (for india)DoH: https://doh.in.ahadns.net/dns-query ; DoT: dot.in.ahadns.net
+ahadns	2a04:52c0:101:75::75 ( Netherlands )	2400:8904:e001:43::43 ( india )	(for Netherland)DoH: https://doh.nl.ahadns.net/dns-query ; DoT: doh.nl.ahadns.net  (for india)DoH: https://doh.in.ahadns.net/dns-query ; DoT: dot.in.ahadns.net
+Yandex (for Russia)	77.88.8.1 ( dns.yandex.ru )	77.88.8.8 ( secondary.dns.yandex.ru )
+Yandex (for Russia)	2a02:6b8::feed:0ff (dns.yandex.ru)	2a02:6b8:0:1::feed:0ff (secondary.dns.yandex.ru)
+Yandex (for Russia)Family filter :	77.88.8.3 (family.dns.yandex.ru)	77.88.8.7 (secondary.family.dns.yandex.ru)
+Yandex (for Russia)Family filter :	2a02:6b8::feed:a11 ( family.dns.yandex.ru )	2a02:6b8:0:1::feed:a11 ( secondary.family.dns.yandex.ru )
+Alidns by Alibaba Cloud (china, Hong Kong, Taiwan & Asia)	223.5.5.5 ( public1.alidns.com )	223.6.6.6 (public2.alidns.com)	DoH: https://dns.alidns.com/dns-query ; DoT: dns.alidns.com
+Alidns by Alibaba Cloud (china, Hong Kong, Taiwan & Asia)	2400:3200::1 (public1.alidns.com)	2400:3200:baba::1 ( public2.alidns.com )	DoH: https://dns.alidns.com/dns-query ; DoT: dns.alidns.com
+Baidu (china & HongKong )	public-dns-a.baidu.com	180.76.76.76
+Baidu (china & HongKong )	2400:da00::6666
+Quad101 by Taiwan Network Information Center (for Taiwan)	twnic-public-dns.twnic.tw 101.101.101.101	101.102.103.104
+Quad101 by Taiwan Network Information Center (for Taiwan)	2001:de4::101 	2001:de4::102
+Bsnl (for india)	61.1.1.1	61.0.1.1
+Bsnl (for india)	61.0.2.2	61.0.3.3
+adhole	5.253.114.91 (United Kingdom)		DoH: https://uk.adhole.org/dns-query ; DoT: uk.adhole.org
+adhole	46.4.165.226 (Germany)		DoH: https://de.adhole.org/dns-query ; DoT: de.adhole.org
+adhole	210.16.120.48 (Singapore)		DoH: https://sg.adhole.org/dns-query ; DoT: sg.adhole.org
+adhole	63.142.251.101 (United States)		DoH: https://us.adhole.org/dns-query ; DoT: us.adhole.org
+adhole	2a04:92c7:37:91:0:0:0:2 (UK)		DoH: https://uk.adhole.org/dns-query ; DoT: uk.adhole.org
+adhole	2403:5680:0:0:0:0:1:9582 (Singapore)		DoH: https://sg.adhole.org/dns-query ; DoT: sg.adhole.org
+adhole	2606:cd80:0:47:0:0:0:871a (US)		DoH: https://us.adhole.org/dns-query ; DoT: us.adhole.org
+blahdns	45.32.55.94 ( Japan )		DoT: dot-jp.blahdns.com DoH: https://doh1.blahdns.com/dns-query DoH: https://doh2.blahdns.com/dns-query
+blahdns	139.180.141.57 (Singapore)		DoT: dot-sg.blahdns.com DoH: https://doh1.blahdns.com/dns-query DoH: https://doh2.blahdns.com/dns-query
+blahdns	78.46.244.143 (Germany)		DoT: dot-de.blahdns.com DoH: https://doh1.blahdns.com/dns-query DoH: https://doh2.blahdns.com/dns-query
+blahdns	95.216.212.177 (Finland)		DoT: dot-fi.blahdns.com DoH: https://doh1.blahdns.com/dns-query DoH: https://doh2.blahdns.com/dns-query
+blahdns	2001:19f0:7001:3259:5400:02ff:fe71:0bc9 (Japan)		DoT: dot-jp.blahdns.com DoH: https://doh1.blahdns.com/dns-query DoH: https://doh2.blahdns.com/dns-query
+blahdns	2001:19f0:4400:6bed:5400:2ff:feb1:f9fa (Singapore)		DoT: dot-sg.blahdns.com DoH: https://doh1.blahdns.com/dns-query DoH: https://doh2.blahdns.com/dns-query
+blahdns	2a01:4f8:c17:ec67::1 (Germany)		DoT: dot-de.blahdns.com DoH: https://doh1.blahdns.com/dns-query DoH: https://doh2.blahdns.com/dns-query
+blahdns	2a01:4f9:c010:43ce::1 ( Finland )		DoT: dot-fi.blahdns.com DoH: https://doh1.blahdns.com/dns-query DoH: https://doh2.blahdns.com/dns-query

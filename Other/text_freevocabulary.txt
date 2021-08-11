@@ -1,0 +1,373 @@
+Domain Name System (DNS) serves as the internet’s phonebook. DNS works particularly in translating familiar domain names such as google.com into an IP address. It is an IP address that is the ideal form for the internet to load the content of the page you want to open.
+
+The configuration of DNS is very complex. This is because the information isn’t stored in a particular database. Instead, information is shared among a worldwide directory which comprises many DNS servers.
+
+Well, the good news is that an average internet user isn’t required to know any or all ofthese technical details. Whenever you type in a URL in your web browser, your ISP must look for the most suitable IP address for the page you want to view. By this, it is your ISP that will automatically give you access to a DNS server when you want to browse.
+
+
+
+Also Read: 20 Best Android TV Apps to Supercharge Your TV Watching Experience
+
+
+If you are in search of what is the best free public DNS servers, you should be considering any of these Google,CleanBrowsing,Verisign,Quad9,OpenDNS,Cloudflare, AdGuard DNS, Alternate DNS, NeuStar DNS, Yandex DNS, SafeDNS, Level 3, etc.
+
+
+
+100% Complete Comparison Table of Free Best Public DNS Servers for 2021
+100% Complete Comparison Table of Free Best Public DNS Servers in 2021
+100% Complete Comparison Table of Free Best Public DNS Servers in 2021
+Well, if you understand your way around DNS and IPS, you can check out the table below. The table summarizes everything in this post into three columns. But in case you still need more information, read down.
+
+
+
+DNS Server	IPv4 Primary DNS Server	Ipv4 Secondary DNS Server	IPv4 Primary DNS Server	Ipv4 Secondary DNS Server	Information Page
+Google Public DNS	8.8.8.8	8.8.4.4	2001:4860:4860::8888	2001:4860:4860::8844	DNS Server URL
+Cloudflare Public DNS	1.1.1.1	1.0.0.1	2606:4700:4700::1111	2606:4700:4700::1001	DNS Server URL
+Verisign	64.6.64.6	64.6.65.6	2620:74:1b::1:1	2620:74:1c::2:2	DNS Server URL
+Comodo Secure DNS	8.26.56.26	8.20.247.20			DNS Server URL
+SafeDNS	195.46.39.39	195.46.39.40			DNS Server URL
+SmartViper	208.76.50.50	208.76.51.51			DNS Server URL
+Dyn	216.146.35.35	216.146.36.36			DNS Server URL
+Alternate DNS	198.101.242.72	23.253.163.53			DNS Server URL
+UncensoredDNS	91.239.100.100	89.233.43.71	2001:67c:28a4::	2a01:3a0:53:53::	DNS Server URL
+puntCAT	109.69.8.51		2a00:1508:0:4::9		DNS Server URL
+CleanBrowsing	185.228.168.9	185.228.169.9	2a0d:2a00:1::2	2a0d:2a00:2::2	DNS Server URL
+CNNIC SDNS	1.2.4.8	210.2.4.8			DNS Server URL
+AliDNS	223.5.5.5	223.6.6.6			DNS Server URL
+DNSPod Public DNS+	119.29.29.29	119.28.28.28			DNS Server URL
+OneDNS	117.50.11.11	117.50.22.22			DNS Server URL
+OpenDNS	208.67.222.222	208.67.220.220	2620:0:ccc::2	2620:0:ccd::2	DNS Server URL
+Level3	209.244.0.3	209.244.0.4			DNS Server URL
+Quad9	9.9.9.9	149.112.112.112	2620:fe::fe	2620:fe::9	DNS Server URL
+DNS.WATCH	84.200.69.80	84.200.70.40	2001:1608:10:25::1c04:b12f	2001:1608:10:25::9249:d69b	DNS Server URL
+GreenTeamDNS	81.218.119.11	81.218.119.11			DNS Server URL
+OpenNIC	185.121.177.177	169.239.202.202	2a05:dfc7:5::53	2a05:dfc7:5353::53	DNS Server URL
+Freenom World	80.80.80.80	80.80.81.81			DNS Server URL
+FreeDNS	37.235.1.174	37.235.1.177			DNS Server URL
+Yandex.DNS	77.88.8.8	77.88.8.1	2a02:6b8::feed:0ff	2a02:6b8:0:1::feed:0ff	DNS Server URL
+Hurricane Electric	74.82.42.42		2001:470:20::2		DNS Server URL
+Neustar	156.154.70.1	156.154.71.1	2610:a1:1018::1	2610:a1:1019::1	DNS Server URL
+CFIEC IPv6 Public DNS			240c::6666	240c::6644	DNS Server URL
+Baidu Public DNS	180.76.76.76		2400:da00::6666		DNS Server URL
+114DNS	114.114.114.114	114.114.115.115			DNS Server URL
+DNSpai	101.226.4.6	218.30.118.6			DNS Server URL
+AdGuard DNS (Default)	176.103.130.130	176.103.130.131	2a00:5a60::ad1:0ff	2a00:5a60::ad2:0ff	DNS Server URL
+AdGuard DNS (Family Protection)	176.103.130.132	176.103.130.134	2a00:5a60::bad1:0ff	2a00:5a60::bad2:0ff	DNS Server URL
+Fourth Estate	45.77.165.194	45.32.36.36			DNS Server URL
+Tenta	99.192.182.100	99.192.182.101			DNS Server URL
+NOTE:Primary DNS servers can also be referred to aspreferred DNS servers while secondary DNS servers can also be referred to asalternate DNS servers.
+
+
+
+Also Read: Top Sites Similar to Craigslist
+
+
+Both the primary and the secondary DNS serves may be “mixed and matched” from various providers to protect you in case the primary provider is down of faulty.
+
+
+
+Details of Some of The Best Free Public DNS Servers in 2021
+I promised the details of the best free and public DNS server in 2021. Here they are. Read on to know which one you can choose touse instead of the other.
+
+In case you are skeptic somewhere, use IPv4 DNS servers. The IPv4 DNS are the IP addresses with periods “.”. On the other hand, IPv6 IP addresses make use of colons “:”
+
+
+
+Details of Some of The Best Free Public DNS Servers in 2021
+Details of Some of The Best Free Public DNS Servers in 2021
+
+
+
+Google Public DNS - Server Link
+With Google Public DNS, you will enjoy three fundamental benefits. These are; First, improved browsing security. A swift browsing experience and correct results with no redirects.
+
+Primary DNS: 8.8.8.8
+
+Secondary DNS: 8.8.4.4
+
+You can also use Google’s IPv6 DNS servers
+
+Primary DNS: 2001:4860:4860::8888
+
+Secondary DNS: 2001:4860:4860::8844
+
+Am sure you have been wondering why Google is very fast with its public DNS servers. The reason is that it is hosted in data hubs throughout the world. What this means is that anytime you try to open a website using any of Google’s IP address, it will refer you to any server that is closest to you.
+
+
+
+Cloudflare Public DNS - Server Link
+Cloudflare owns 1.1.1.1, and it was designed to be the most “fastest DNS service globally.” Being the fastest, Cloudflare won’t log your IP address, and it will not use your data to target ads. Also, Cloudflare will not sell your data
+
+Primary DNS: 1.1.1.1
+
+Secondary DNS: 1.0.0.1
+
+Cloudflare also has IPv6 public DNS servers:
+
+Primary DNS: 2606:4700:4700::1111
+
+Secondary DNS: 2606:4700:4700::1001
+
+In case you want to enjoy a quick setup on your mobile device, Cloudflare also offers an app for both Android and iOS.
+
+
+
+Alternate DNS - Server Link
+A unique feature about this free public DNS service is that it blocks any ads before getting to your desired network.
+
+Primary DNS: 198.101.242.72
+
+Secondary DNS: 23.253.163.53
+
+Also, if you ever wish to block any adult content, you can subscribe to the Family Premium DNS option. The family premium DNS cost $2 per month.
+
+
+
+CleanBrowsing - Server Link
+There are three different free public DNS server choices with CleanBrowsing. They are; a security filter, family filter, and an adult filter. These basic security filters help in an hourly update. They also help to prevent phishing sites and malware.
+
+Primary DNS: 185.228.168.9
+
+Secondary DNS: 185.228.169.9
+
+CleanBrowsing also offers IPv6 DNS services thus:
+
+Primary DNS: 2a0d:2a00:1::2
+
+Secondary DNS: 2a0d:2a00:2::2
+
+With the CleanBrowsing security filter for adults (185.228.168.10), it blocks any access to the adult domain. On the other hand, the family security filter (185.228.168.168) prevents VPNs and Proxies. It also blocks mixed adult contents. However, you can choose tohave additional features with a small token price.
+
+
+
+Quad9 - Server Link
+With Quad9, you are sure that your computer will be protected from cyber threats. It can also prevent your access to malicious websites without saving your data.
+
+
+
+Also Read: Free Best CPU Temp Monitor in 2021
+
+
+Primary DNS: 9.9.9.9
+
+Secondary DNS: 149.112.112.112
+
+Quad9 also offers IPv6 DNS servers:
+
+Primary DNS: 2620:fe::fe
+
+Secondary DNS: 2620:fe::9
+
+Quad9 only blocks websites that have malware or are phishing. It doesn’t filter contents like other DNS. Again, Quad9 also offer an unsafe IPv4 public DNS at 9.9.9.10 (2620:fe::10 for IPv6).
+
+
+
+Verisign - Server Link
+Verisign is yet another public DNS that are focused on security and stability, with about 100% uptime. Again, with their privacy policy, Verisign is firm on assuring you of 100% privacy of your information. With this, they don’t give out your public DNS data to other websites. Also, they don’t redirect your request to other serves that may give you any ads.
+
+Primary DNS: 64.6.64.6
+
+Secondary DNS: 64.6.65.6
+
+Verisign also offers IPv6 public DNS servers:
+
+Primary DNS: 2620:74:1b::1:1
+
+Secondary DNS: 2620:74:1c::2:2.
+
+To check the new status of the public DNS, they have a Check DNS Cache webpage for doing that. Additionally, you can also Clean the public DNS cache.
+
+
+
+AdGuard - Server Link
+This public DNS service has two different DNS serves. These two serves work together to prevent ads in videos, web pages, games, and even apps. The default servers are the basic serves, and they are responsible for blocking ads. Besides ads, they also block phishing websites as well as malware.
+
+Primary DNS: 176.103.130.130
+
+Secondary DNS: 176.103.130.131
+
+AdGuard also offer IPv6; they are:
+
+Primary DNS: 2a00:5a60::ad1:0ff
+
+Secondary DNS: 2a00:5a60::ad2:0ff
+
+More so, AdGuaard also offer Family protect DNS services with the following DNS
+
+Primary DNS: 176.103.130.132
+
+Secondary DNS 176.103.130.134
+
+These two DNS are designed to block adult contents and all other contents blocked by the “Default” servers.
+
+
+
+OpenDNS - Server Link
+Over 90 million users are using this public DNS server globally. This high number of users is from the fact thatit gives a 100% reliability and a quality uptime. They have two different DNS servers. One out of the two is only for parental control, and it has tons of options for filtering.
+
+Primary DNS: 208.67.222.222
+
+Secondary DNS: 208.67.220.220
+
+OpenDNS also offers two IPv6 addresses thus:
+
+Primary DNS: 2620:119:35::35
+
+Secondary DNS: 2620:119:53::53
+
+The IPv4 servers are mainly for OpenDNS Home. You can also have DNS serves which are designed to block any adult content. This DNS server is known asOpenDNS FamilyShieldwith two DNS servers
+
+Primary DNS: 208.67.222.123
+
+Secondary DNS: 208.67.220.123
+
+You can also go for the premium DNS server known as OpenDNS Home VIP.
+
+
+
+DNS.WATCH - Server Link
+This third-party DNS server gives you access to a fast an uncensored connection to the internet free of charge. The core principle with which DNS.WATCH works with is DNS neutrality. With this, you are sure that there won’t be any intrusion or a reduction in the performance of the internet connection you are receiving. Most surprising about this public DNS servers is the fact it works on almost all devices and OS. Are you using a Pc, Linux or Mac, it will give you the expected results.
+
+Many users like this DNS server because it is entirely secure, doesn’t interfere with any tariff. Also, it gives unfiltered access to the internet. Well, a downside is that it lacks some advanced security features.
+
+Primary DNS: 82.200.69.80
+
+Secondary DNS: 84.200.70.40
+
+
+
+OpenNIC DNS - Server Link
+Here is another excellent solution for a faster DNS server service. OpenNIC is also a staunch believer of DNS neutrality. With this, they give you 100% access to any part of the internet without having any ads. Also, you will enjoy seamless browsing with distraction coming in between and causing you to stop for anything.
+
+
+
+Also Read: Best 1337x Proxy List 2021
+
+
+Furthermore, if you opt for OpenNIC DNS, you can enjoy other freebies such as ISP DNS hijacking. You can have your best picks when you visit their website to look through and choose which one fits best for you. Some accolades to OpenNIC is that it gives you 100% access to unadulterated web contents. Also, it has a simple setup and gives you maximum security against ISP DNS hacking. Well, one downside – not suitable for users with underage kids and younger siblings.
+
+Primary DNS: 23.94.60.240
+
+Secondary DNS: 128.52.130.209
+
+
+
+Century Link (Level3) - Server Link
+In term of performance and reliability, Level 3 DNS is another outstanding DNS server. Reasons for their excellent performance is simple. They offer a network-based service, which requires world-class hardware to function optimally. One thing you should be expecting from Level3 DNS is that once you begin using their DNS server, you will fall among those enjoying the best internet experience around.
+
+Some fantastic things users like about Level3 are; simple steps to setup, and it works very well with almost any ISP and router. Again, it is best for anyone in need of top-notch internet experience. Well, one problem – some slow connection might occur once in a while.
+
+The following DNS codes will switch you to Level3.
+
+Primary DNS: 209.244.0.3
+
+Secondary DNS: 209.244.0.4
+
+Other DNS: 4.2.2.1, 4.2.2.2, 4.2.2.3, 4.2.2.4
+
+
+
+Comodo Secure - Server Link
+This is undisputedly one of the best and very popular DNS servers around. Comodo Secure DNS is another public DNS server that smoothly combines reliability, safety, and speed into a single handy package. With its robust and convenient internet network, Comodo Secure DNS seamlessly break bounds. In case you need a high performance real quick, you can get Comodo Secure DNS optimized for that. All that you need to do is select any server based on where you are currentlytrying to get internet access.
+
+More so, Comodo Secure DNS prioritize and has an amazinglyactive layer of security features. With these security features, you can’t visit malicious websites that can wreck serious havoc to your computer. Some accolade from users include; it has many servers within its network, excellent internet performance. Others are a powerful security feature that keeps them away from various security threats. Also, it is said to give the best gaming experience. Sure this public DNS server has the right features that match your spec?
+
+Primary DNS: 8.26.56.26
+
+Secondary DNS: 8.20.247.20.
+
+
+
+GreenTeamDNS - Server Link
+When you need a public DNS server thatis always on the lookout for security feature, GeenTeamDNS is one. It can keep off a thousand and one potentially harmful websites. It also keeps you away from stuff like botnets, adult related contents. Others are malware and many other malicious elements. Well, with a token fee for a premium account, you can take charge of what you wish to see as soon as you start browsing.
+
+Users love it because it is designed for security-conscious folks, and it protects against malware botnet and adult content. Again, the opportunity for users to control how they use the internet is worth mentioning. Well, some users frown thatit might even be over-secured for them.
+
+Primary DNS: 81.218.119.11
+
+Secondary DNS: 81.218.119.11
+
+
+
+FreeDNS - Server Link
+For users living around Austria, FreeDNS can be your favourite DNS server since it hosted from Austria. FreeDNS claims thatthey don’t log DNS queries. With this, it, therefore, means that any interest of your or your search results always remains private. Also, they are firm about not selling your personal information to any third party website.
+
+Some pros about FreeDNS is that not everything you search is logged. Secondly, it serves pretty well, especially for users around Austria, and it any threat to security swiftly. Well, it is found not to help other users far away from Austria as well as those around its host country.
+
+Primary DNS: 37.235.1.174
+
+Secondary DNS: 37.235.1.177
+
+
+
+Uncensored DNS - Server Link
+Uncensored DNS provides lots of amazing features for an average user. Despite being owned by a private entity, it offers super speed, high-security features, and it is confirmed to be very reliable. Users from Denmark will enjoy super internet access and optimized performance with this number, 89.233.43.71. But other users from any location can use 91.239.100.100 address which is anycast.
+
+Many users prefer Uncensored DNS for the fact that it is very reliable, and serves the people of Denmark well. It also has lots of security feature and being a private DNS, and it therefore implies that users will receive an excellent internet performance. Well, a downside is that users outside the borders of Denmark doexperience some latency challenges.
+
+Uncensored DN also offer IPv6 connection with the following IP address;
+
+Primary DNS: 2001:67c:28a4::
+
+Secondary DNS: 2a01:3a0:53:53::
+
+
+
+Safe DNS - Server Link
+Like you would rightly guess, SafeDNS is known for a thorough content filtering. It filters contents from all sides and ensures that users don’t wander into the wrong website. Most importantly are websites that may be offering you well-package malware, and other adult contents. Again, their security and content filtering feature are designed in such a way that an average internet user can surf with rest of mind.
+
+Some plus from users about SafeDNS is that it is designed to serve users with children well. Also, it best for users with younger siblings who need to access the internet. Again, their security measures against, different forms of internet threats and malware are well applauded. Finally, their uptime is outstanding. A few flaws, though. SafeDNS wouldn’t serve users who don’t need filtering web contents rightly.
+
+Primary DNS: 195.46.39.39
+
+Secondary DNS: 195.46.39.40
+
+
+
+Yandex DNS - Server Link
+Possibly, one of the oldest public DNS servers is Yandex DNS. It remains very popular to many internet users. Despite being old and working for an extended time, Yandex DNS is still known to be top rated. Top rated especially for users who areconscious about blocking some malicious websites. It might interest you to know that Yandex DNS is said to be lacking on some top security feature. With this, you will be more conscious about where you step on as you navigate the World Wide Web terrain.
+
+However, some upside of Yandex DNS is that it can be counted upon in terms of high speed, with little or no downtime. Also, it is a fantastic option for users who need to stay protected from other malicious web contents. Sure everyone needs this! A slight downside for Yandex, though. It is said not to have so much of sophisticated security features.
+
+Primary DNS: 77.88.8.8
+
+Secondary DNS: 77.88.8.1
+
+
+
+Neustar DNS - Server Link
+Despite coming last in this list, Neustar DNS is one of the most exceptional public DNS servers you need to check out. It has lots of benefits for you if you are using it. Among some of its benefits are; it gives quick access to any website you may want toaccess. Also, you will enjoy top security features from Neustar DNS server especially against malware spyware, etc. it also offers protection against ransomware, phishing websites and security threats.
+
+Neustar DNS is designed to serve every member of the family pretty well. In case you have concerns about some underage members of your family sneaking to some unhealthy websites, you can choose toget such websites blocked. Also, it gives top security to business owners. It does this by making sure that your data is not shared or compromised with third-parties.
+
+Users reviews show that Neustar DNS is very reliable in terms of uptime and speed. Also, is it superb for blocking any unneeded adult contents, and can also be easily personalized to your taste. Neustar is also said to be an excellent tool for business owners. Above all, it provides high security and protection against spyware, malware, and other malicious security threats.
+
+IPv4 Primary DNS Server:156.154.70.1
+
+IPv4 Secondary DNS Server: 156.154.71.1
+
+IPv6 Primary DNS Server: 2610:a1:1018::1
+
+IPv6 Secondary DNS Server: 2610:a1:1019::1
+
+
+
+Wondering Why You Need Different DNS Servers?
+Wondering Why You Need Different DNS Servers?
+Wondering Why You Need Different DNS Servers?
+There are many reasons for this. The first is when there is a problem with the current DNS server you are using. And you can detect DNS serve fault by merely typing the website’s IP address in your browser. Here, when you can access the site through its IP address, but can’t do the same through the name, it then means that the DNS server is faulty.
+
+Second, another reason is when you need an enhanced performing service. This is mostly needed by people who experience sluggish browsing from their ISP.
+
+Third, you may need a different DNS server when you need to avoid the blocking of some websites. Similarly, when you need to prevent the logging of your online activities. Well, but it not every DNS server that will save you from traffic logging. If you need particularly that, read through a DNS provider’s FAQs to ensure that they offer what you want.
+
+However, if you want to use the particular DNS server which your ISP choose tobe the best for you, then you don’t have to set the DNS server address manually. They will automatically assign it.
+
+On a final note, if there is a mixup somewhere, a free DNS server will NOT offer you free access to the internet. If you still need internet access, you need an ISP where you can connect to for internet access. What DNS servers do is translate those IP address numbers into a domain you can easily read and remember.
+
+
+
+Conclusion on Best Public DNS Servers in 2021
+Here you have them all listed. You might won’t have any excuse to continue with a groggy internet connection.
+
+Well, you can use the comment box to identify other better public DNS servers you are enjoying.
